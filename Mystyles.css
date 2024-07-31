@@ -1,0 +1,13 @@
+body,h1,h2,h3,ul,li{
+    margin: 5;
+    padding: 5;
+}
+h1{
+    color: rgb(164, 59, 143);
+}
+body{
+    background-color: rgb(64, 159, 143);
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
